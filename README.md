@@ -117,5 +117,3 @@ You are required to submit the following for review:
 * The URL of the GitHub gist. Give the gist a unique name.
 
 ---
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
