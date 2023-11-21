@@ -1,10 +1,10 @@
-# Title (replace with your title)
+Regex GistOfIt
 
-Introductory paragraph (replace this with your text)
+Hello, my name is Reiken Stuart. I am a coding student at the U of U. I will be attempting to create a tutorial for Regex search pattern.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+We will go through each of the components of the regular expression below and examine each component of this regex to see how it plays a vital role for the user to enter a valid email address. Hope this will be helpful for those who indulge.
 
 ## Table of Contents
 
